@@ -1,0 +1,27 @@
+{
+  "name": "html-starterkit",
+  "version": "1.0.0",
+  "description": "A HTML starterkit template for rapid development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/purwnt/html-starterkit.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "starterkit",
+    "responsive",
+    "development",
+    "template"
+  ],
+  "author": "Purwanto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/purwnt/html-starterkit/issues"
+  },
+  "homepage": "https://github.com/purwnt/html-starterkit#readme"
+}
